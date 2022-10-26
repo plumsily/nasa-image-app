@@ -79,7 +79,8 @@ button:hover{
   width: 100%;
   height: auto;
   filter: contrast(200%) brightness(100%);
-  background: radial-gradient(rgba(0,0,0,1),rgba(51, 51, 51, 0.88)), url(/noise.svg);
+  background: url(/noise.svg);
+  /* background: radial-gradient(rgba(0,0,0,1),rgba(51, 51, 51, 0.88)), url(/noise.svg); */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
