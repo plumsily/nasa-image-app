@@ -16,7 +16,7 @@
     <a href="https://github.com/plumsily/f1-new-tab"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://plumsily.github.io/nasa-image-app/"><em>View Demo</em></a>
+    <a href="https://plumsily.github.io/nasa-image-app/"><strong>View Demo</strong></a>
   </p>
 </div>
 
@@ -40,9 +40,9 @@
 
 ## About The Project
 
-<img src="src/img/screenshot4.png">
+<img src="img/screenshot4.png">
 
-This app was inspired by the NASA Astronomy Picture of the Day API and is mainly designed to serve the pictures/videos in a fun and interesting way. Taking cues from vintage National Geographic magazines, I added a grainy background texture via svg overlays. The user can use the discover button to shuffle among all the images in NASA's database. 
+This app was inspired by the NASA Astronomy Picture of the Day API and is mainly designed to serve the pictures/videos in a fun and interesting way. Taking cues from vintage National Geographic magazines, I added a grainy background texture via svg overlays. The user can use the discover button to shuffle among all the images in NASA's database.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -57,11 +57,11 @@ This app was inspired by the NASA Astronomy Picture of the Day API and is mainly
 
 ## Images
 
-<img src="src/img/screenshot1.png">
+<img src="img/screenshot1.png">
 <br>
-<img src="src/img/screenshot2.png">
+<img src="img/screenshot2.png">
 <br>
-<img src="src/img/screenshot3.png">
+<img src="img/screenshot3.png">
 <br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
