@@ -13,7 +13,7 @@
   <p align="center">
     This page serves high quality images via NASA's Astronomy Picture of the Day API. Viewers can see the thousands of images NASA has to offer via the discover button. Inspired by vintage National Geographic catalogs.
     <br />
-    <a href="https://github.com/plumsily/f1-new-tab"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/plumsily/nasa-image-app"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://plumsily.github.io/nasa-image-app/"><strong>View Demo</strong></a>
