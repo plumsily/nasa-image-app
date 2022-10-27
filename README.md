@@ -40,7 +40,7 @@
 
 ## About The Project
 
-<img src="img/screenshot4.png">
+<img src="img/screenshot_1.png">
 
 This app was inspired by the NASA Astronomy Picture of the Day API and is mainly designed to serve the pictures/videos in a fun and interesting way. Taking cues from vintage National Geographic magazines, I added a grainy background texture via svg overlays. The user can use the discover button to shuffle among all the images in NASA's database.
 
@@ -57,11 +57,14 @@ This app was inspired by the NASA Astronomy Picture of the Day API and is mainly
 
 ## Images
 
-<img src="img/screenshot1.png">
+<img src="img/screenshot_2.png">
 <br>
-<img src="img/screenshot2.png">
+<img src="img/screenshot_3.png">
 <br>
-<img src="img/screenshot3.png">
+<img src="img/screenshot_4.png">
+<br>
+Mobile version:
+<img src="img/screenshot_5.png">
 <br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

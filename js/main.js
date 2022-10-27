@@ -11,7 +11,7 @@ function getFetch() {
       document.querySelector("h1").innerText = data[0].title;
       document.querySelector("img").src = data[0].hdurl;
       document.querySelector("h2").innerText = data[0].date;
-      document.querySelector("#description").innerText = data[0].explanation;
+      document.querySelector(".description").innerText = data[0].explanation;
       if (data[0].media_type === "image") {
         document.querySelector("iframe").style.display = "none";
         document.querySelector("img").style.display = "block";

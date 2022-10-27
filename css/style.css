@@ -5,15 +5,15 @@
 html {
   height: 100%;
   font-family: 'Prata', serif;
-  max-width: 70ch;
+  max-width: 80ch;
   margin: auto;
   line-height: 1.75;
-  font-size: 1.25em;
   font-weight: bold;
   color: wheat;
   scroll-behavior: smooth;
 }
 body {
+  font-size: 1.25rem;
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -26,28 +26,27 @@ header{
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: baseline;
-  margin: 0.5em auto;
 }
 h3{
   flex-basis: 100%;
-  font-size: 3em;
+  font-size: 3.5rem;
   align-self: flex-start;
-  margin-bottom: 0em;
+  margin-bottom: 0rem;
 }
 h1{
   flex-basis: 70%;
-  font-size: 2.5em;
+  font-size: 3rem;
 }
 iframe{
   width: 100%;
   height: 40ch;
   border: none;
-  margin-bottom: 1.5em;
+  margin-bottom: 1.5rem;
 }
 img{
   width: 100%;
   border-radius: 15px;
-  margin-bottom: 1.5em;
+  margin-bottom: 1.25rem;
 }
 article{
   width: 100%;
@@ -56,20 +55,21 @@ article{
 }
 button{
   align-self: flex-end;
-  margin: 1em 0;
-  padding: 0;
+  margin: 1rem 0;
+  padding: 0.5rem;
   background-color: transparent;
-  border-width: 0;
+  border: 2px solid wheat;
   color: wheat;
   cursor: pointer;
-  font-size: 1.35em;
+  font-size: 1.5rem;
   font-weight: bold;
 }
 button:hover{
   color: white;
+  border-color: white;
 }
 
-#background{
+.background{
   z-index: -1;
   position: fixed;
   top: 0;
@@ -86,10 +86,27 @@ button:hover{
 }
 
 body::-webkit-scrollbar{
-  width: 0.2em;
+  width: 0.2rem;
   background-color: black;
 }
 
 body::-webkit-scrollbar-thumb {
   background-color: wheat;
+}
+
+@media screen and (max-width: 500px) {
+  html{
+    padding: 0em 2em;
+    font-size: 10px;
+  }
+  h1{
+    flex-basis: 60%;
+  }
+  h3{
+    font-size: 3.25rem;
+  }
+  button{
+    font-size: 1.75rem;
+  }
+  
 }
